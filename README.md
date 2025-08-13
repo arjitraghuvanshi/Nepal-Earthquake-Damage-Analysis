@@ -20,15 +20,15 @@ The project is organized into four Jupyter notebooks, each covering a different 
    - Performs EDA with visualizations (histograms, bar charts, and heatmaps).
    - Identifies key factors correlated with damage severity.
 
-3. **`Predicting Damage with Logistic Regression.ipynb`**
-   - Prepares the dataset with encoding and scaling.
-   - Trains a **Logistic Regression** model to predict building damage levels.
-   - Evaluates the model with accuracy, confusion matrix, and classification report.
-
-4. **`Predicting Damage with Decision Tree.ipynb`**
+3. **`Predicting Damage with Decision Tree.ipynb`**
    - Implements a **Decision Tree Classifier** for prediction.
    - Tunes hyperparameters (max depth, random state) for optimal performance.
    - Compares results with Logistic Regression.
+
+4. ***`Predicting Damage with Logistic Regression.ipynb`**
+   - Prepares the dataset with encoding and scaling.
+   - Trains a **Logistic Regression** model to predict building damage levels.
+   - Evaluates the model with accuracy, confusion matrix, and classification report.
 
 ---
 
