@@ -64,4 +64,10 @@ It contains details about building structure, location, and observed damage leve
 - Structural features (such as foundation type, building height, and roof material) had strong predictive power.
 - The **Decision Tree** provided better interpretability, while Logistic Regression offered a more stable baseline.
 
+---
+
+## 📬 Author  
+**Arjit Raghuvanshi**  
+Data analytics, Data Science & Machine Learning Enthusiast  
+[GitHub Profile](https://github.com/arjitraghuvanshi)  
 
